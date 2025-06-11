@@ -8,10 +8,10 @@ Self-driven SEO content strategist with 7 years of experience. Currently transit
 
 * 🌍  I'm based in Nairobi
 * ✉️  You can contact me at [dr.plancksolago@gmail.com](mailto:dr.plancksolago@gmail.com)
-* 🚀  I'm currently working on [Escrow App](http://mtandao.co.ke)
-* 🧠  I'm learning Fullstack development
-* 🤝  I'm open to collaborating on Projects
-* ⚡  I enjoy catching flags!
+* 🚀  I'm currently working on [Cybersecurity Labs Blog](http://vinolago.github.io)
+* 🧠  I'm learning Fullstack development & Cybersecurity.
+* 🤝  I'm open to collaborating on Projects.
+* ⚡  I enjoy catching flags on HTB and THM!
 
 ### Skills
 
