@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Developer
 -------------------
 
-Self-driven SEO content strategist with 7 years of experience. Currently transitioning into full-stack development through hands-on technical mentorship and by contributing to real-world coding projects.
+Self-driven SEO content strategist with 7 years of experience. Currently transitioning into cybersecurity and full-stack development through hands-on technical mentorship and by contributing to real-world coding projects.
 
 * 🌍  I'm based in Nairobi
 * ✉️  You can contact me at [dr.plancksolago@gmail.com](mailto:dr.plancksolago@gmail.com)
-* 🚀  I'm currently working on [Cybersecurity Labs Blog](http://vinolago.github.io)
+* 🚀  I'm currently working on my [Cybersecurity Labs Blog](http://vinolago.github.io)
 * 🧠  I'm learning Fullstack development & Cybersecurity.
 * 🤝  I'm open to collaborating on Projects.
 * ⚡  I enjoy catching flags on HTB and THM!
