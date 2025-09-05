@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Developer
 -------------------
 
-Self-driven Fullstack Developer specializing in React, Node.js, MongoDB & Express.js. Currently learning cybersecurity and full-stack development through hands-on technical mentorship and by contributing to real-world coding projects.
+Self-driven Fullstack Developer specializing in React, Node.js, MongoDB & Express.js. Currently engrossed in cybersecurity and full-stack development through hands-on technical mentorship and by contributing to real-world coding projects.
 
 * 🌍  I'm based in Nairobi
-* ✉️  You can contact me at [dr.plancksolago@gmail.com](mailto:dr.plancksolago@gmail.com)
+* ✉️  You can contact me at [https://mtandao.co.ke/]
 * 🚀  I'm currently building an ERP Event Management System.
-* 🧠  I'm learning Fullstack development & Cybersecurity.
+* 🧠  I'm learning AI & ML training & Cybersecurity.
 * 🤝  I'm open to collaborating on Projects.
 * ⚡  I enjoy building great things from scratch!
 
