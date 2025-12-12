@@ -7,11 +7,11 @@ Fullstack Developer
 Self-driven Fullstack Developer specializing in React, Node.js, MongoDB & Express.js. Currently engrossed in cybersecurity and full-stack development through hands-on technical mentorship and by contributing to real-world coding projects.
 
 * 🌍  I'm based in Nairobi
-* ✉️  You can contact me at [https://mtandao.co.ke/]
-* 🚀  I'm currently building an ERP Event Management System.
-* 🧠  I'm learning AI & ML training & Cybersecurity.
+* ✉️  You can contact me at [https://swypstudio.co.ke/]
+* 🚀  I'm currently building AI automation system.
+* 🧠  I'm learning AI & ML training.
 * 🤝  I'm open to collaborating on Projects.
-* ⚡  I enjoy building great things from scratch!
+* ⚡  I enjoy building stuff from scratch!
 
 ### Skills
 
