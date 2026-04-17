@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Developer
 -------------------
 
-Self-driven Fullstack Developer specializing in React, Node.js, MongoDB & Express.js. Currently engrossed in cybersecurity and full-stack development through hands-on technical mentorship and by contributing to real-world coding projects.
+Self-driven Fullstack Developer specializing in React, Node.js, MongoDB & Express.js. Currently engrossed in real world data analysis and full-stack development through hands-on technical mentorship and by contributing to real-world coding projects.
 
 * 🌍  I'm based in Nairobi
 * ✉️  You can contact me at [https://swypstudio.co.ke/]
-* 🚀  I'm currently building AI automation system.
+* 🚀  I'm currently building AI agentic automation systems.
 * 🧠  I'm learning AI & ML training.
 * 🤝  I'm open to collaborating on Projects.
 * ⚡  I enjoy building stuff from scratch!
